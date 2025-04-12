@@ -21,3 +21,4 @@ python run_pipeline.py
 This will run the pipeline LOCALLY and not in the container.
 
 enjoy
+just cc_based_owned basics: DB folder has scripts to create and seed the database with some fake data. dokcer should automatically run all of this for you.
